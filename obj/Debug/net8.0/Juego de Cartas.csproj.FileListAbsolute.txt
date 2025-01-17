@@ -1,0 +1,14 @@
+E:\Juego de Cartas\bin\Debug\net8.0\Juego de Cartas.exe
+E:\Juego de Cartas\bin\Debug\net8.0\Juego de Cartas.deps.json
+E:\Juego de Cartas\bin\Debug\net8.0\Juego de Cartas.runtimeconfig.json
+E:\Juego de Cartas\bin\Debug\net8.0\Juego de Cartas.dll
+E:\Juego de Cartas\bin\Debug\net8.0\Juego de Cartas.pdb
+E:\Juego de Cartas\obj\Debug\net8.0\Juego de Cartas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Juego de Cartas\obj\Debug\net8.0\Juego de Cartas.AssemblyInfoInputs.cache
+E:\Juego de Cartas\obj\Debug\net8.0\Juego de Cartas.AssemblyInfo.cs
+E:\Juego de Cartas\obj\Debug\net8.0\Juego de Cartas.csproj.CoreCompileInputs.cache
+E:\Juego de Cartas\obj\Debug\net8.0\Juego de Cartas.dll
+E:\Juego de Cartas\obj\Debug\net8.0\refint\Juego de Cartas.dll
+E:\Juego de Cartas\obj\Debug\net8.0\Juego de Cartas.pdb
+E:\Juego de Cartas\obj\Debug\net8.0\Juego de Cartas.genruntimeconfig.cache
+E:\Juego de Cartas\obj\Debug\net8.0\ref\Juego de Cartas.dll
